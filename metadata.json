@@ -1,0 +1,5 @@
+{
+  "name": "Data Scientist Journey Tracker",
+  "description": "A web application to track daily learning progress from beginner to advanced until becoming job-ready as a Data Scientist.",
+  "requestFramePermissions": []
+}
